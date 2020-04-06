@@ -1,0 +1,60 @@
+.content {
+    width: 60%;
+    margin: 0 auto;
+    border-left: 1px solid rgb(240,240,240);
+    border-right: 1px solid rgb(240,240,240);
+}
+
+.content hr {
+    margin: 0;
+}
+
+.content h2 {
+    margin: 20px;
+}
+
+.content-name {
+    text-align: center;
+    color: rgb(102,102,102);
+}
+
+.name-block {
+    color: rgb(102,102,102);
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    margin: 20px;
+    width: 100%;
+}
+
+tr {
+    margin: 10px;
+}
+
+td, th {
+    border: rgb(220, 220, 226) solid 1px;
+    padding: 10px !important;
+}
+
+button a {
+    text-decoration: none;
+    color: rgb(102,102,102);
+}
+
+.table h4 {
+    margin: 20px;
+    text-align: center;
+}
+
+.add-role {
+    margin: 0 0 20px 20px;
+}
+
+.add-role button a {
+    padding: 20px;
+}

@@ -1,0 +1,29 @@
+.content {
+    width: 60%;
+    margin: 0 auto;
+    border-left: 1px solid rgb(240,240,240);
+    border-right: 1px solid rgb(240,240,240);
+}
+
+.content hr {
+    margin: 0;
+}
+
+.content h2 {
+    margin: 20px;
+}
+.content-name {
+    text-align: center;
+    color: rgb(102,102,102);
+}
+
+.creat {
+    padding: 20px;
+}
+ h4 {
+     color: rgb(102,102,102);
+}
+
+button {
+    padding: 5px 20px 5px 20px;
+}

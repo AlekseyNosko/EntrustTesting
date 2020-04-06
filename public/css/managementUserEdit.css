@@ -1,0 +1,16 @@
+.content {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    border-left: 1px solid rgb(240,240,240);
+    border-right: 1px solid rgb(240,240,240);
+}
+
+.name-div {
+    color: rgb(102,102,102);
+}
+
+.creat form input{
+    margin-left: 215px;
+}
+
